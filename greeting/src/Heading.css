@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: powderblue;
+  font-family: 'Caveat Brush', cursive;
+}
+
+.mydiv{
+  justify-content: center;
+  display:flex;
+  width: 100%;
+  height: 100vh;
+  align-items: center;
+}
+
+h1{
+  background-color:#ffe9c5;
+  padding: 20px 20px;
+  border-radius: 20px;
+  color: #fa9191;
+}
+
+
+
